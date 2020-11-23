@@ -7,6 +7,21 @@ The purpose of this analysis was to build a machine learning model to help the A
 
 ## Results
 
+### Data Preprocessing
+
+-
+
+-
+
+-
+
+### Compiling, Training, and Evaluating the model
+
+-
+
+-
+
+-
 
 
 ## Summary
