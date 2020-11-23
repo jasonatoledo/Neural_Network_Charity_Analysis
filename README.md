@@ -33,7 +33,7 @@ https://github.com/jasonatoledo/Neural_Network_Charity_Analysis/blob/main/nn_lay
  
  - Try different values of hidden layers, with the max of 200 for the 1st layer at one point
  
- - Tried at least 6 different activation functions, tried a different loss function, and tried 5 different optimizers
+ - Tried at least 6 different activation functions, tried a different loss function, and tried 5 different optimizers, including adam, adamax, nadam, adadelta, RMSprop
  
  - Played with 2, 3, 4, 5, 6 different hidden layers with varying neurons
  
