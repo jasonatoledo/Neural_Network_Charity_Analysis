@@ -41,3 +41,5 @@ https://github.com/jasonatoledo/Neural_Network_Charity_Analysis/blob/main/nn_20_
 
 
 ## Summary
+
+I wasn't thrilled with spending 12+ hours trying to perfect a model and couldn't even achieve 75% as asked with over 20+ different iterations of the model. I would like to learn more about setting learning rates as well as more context on decay and loss functions. I wasn't able to locate a feature importance function for neural networks and that wasn't mentioned in this particular module. I am very curious to know how many of my classmates got to the 75% as I believe I put in more effort and time than the average student would have.
